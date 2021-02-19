@@ -1,0 +1,90 @@
+.card-img {
+  background-color: white;
+}
+.p-2 {
+  color: white;
+  font-size: 30px;
+}
+
+.card-stuff {
+  font-size: 20px;
+}
+.col {
+  font-size: 15px;
+}
+
+.container {
+  background-color: black;
+  color: #f7f7f7;
+  height: 30px;
+}
+
+.col-sm {
+  text-align: center;
+}
+
+.card-title {
+  margin-top: 10px;
+  font-size: 35px;
+  color: #f7f7f7;
+}
+.card-date,
+.card-hour {
+  font-size: 25px;
+  color: #f7f7f7;
+}
+.card-text {
+  color: #f7f7f7;
+  font-size: 15px;
+}
+
+body {
+  background-color: black;
+}
+.Coded {
+  color: #f7f7f7;
+}
+.card {
+  background-color: rgb(22, 21, 21);
+}
+.btn {
+  color: #f7f7f7;
+}
+.col-sm {
+  height: 80px;
+}
+.footer {
+  width: 100%;
+  background-color: #212529;
+  color: #f7f7f7;
+  text-align: center;
+  margin-top: 40px;
+  margin-bottom: 0px;
+  font-weight: lighter;
+  font-size: 15px;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  display: block;
+}
+.navbar {
+  height: 120px;
+}
+.card-degrees {
+  color: black;
+  font-size: 70px;
+  text-align: center;
+}
+
+a:link {
+  color: #060235;
+}
+a:visited {
+  color: #060235;
+}
+a:hover {
+  color: #f7f7f7;
+}
+a:active {
+  color: #c0f0fc;
+}
